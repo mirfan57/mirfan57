@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in the field of **Data Science, Machine Learning, Deep Learning applied on Medical images**.
 
-- 🌱 I’m currently learning **Computer Vision and NLP**
+- 🌱 I’m currently learning **Computer Vision and NLP** 
 
 - 📫 How to reach me **mohdirfan57@gmail.com**
 
