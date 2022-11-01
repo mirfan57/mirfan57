@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **NLP**
+- 👀 I’m interested in the field of **Data Science, Machine Learning, Deep Learning applied on Medical images**.
+
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
 - 📫 How to reach me **mohdirfan57@gmail.com**
 
-- ⚡ Fun fact **I'm a physicist who is passionate about the use of AI to medical imaging.**
+- ⚡ About Me **I'm a physicist who is passionate about the use of AI to medical imaging.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
