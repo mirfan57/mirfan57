@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirfan57&label=Profile%20views&color=0e75b6&style=flat" alt="mirfan57" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Deep Learning for Entity Resolution and Data Forensics**
 
-- 👀 I’m interested in the field of **Data Science, Machine Learning, Deep Learning applied on Medical images**.
+- 👀 I’m interested in the field of **NLP for entity matching, Deep Learning applied on Medical images**.
 
 - 🌱 I’m currently learning **Computer Vision and NLP** 
 
 - 📫 How to reach me **mohdirfan57@gmail.com**
 
-- ⚡ About Me **I'm a physicist who is passionate about the use of AI to medical imaging.**
+- ⚡ About Me **I'm a physicist who is passionate about the use of AI to Data Forensics and Medical Imaging.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
