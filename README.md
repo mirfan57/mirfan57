@@ -1,15 +1,17 @@
 [![MasterHead](https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/online-learning-training-school-1-adobe.jpg)](https://mirfan57.io)
 <h1 align="center">Hi 👋, I'm Mohammad Irfan</h1>
-<h3 align="center">A passionate data science student from India</h3>
+<h3 align="center">Assistant Manager at HPY</h3>
 <img align="right" alt="Coding" width="400" src="https://dbeaver.com/wp-content/uploads/2018/01/Slides2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirfan57&label=Profile%20views&color=0e75b6&style=flat" alt="mirfan57" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning for Entity Resolution and Data Forensics**
+- 🔭 I’m currently working on **Model building & gathering insights for optimizing HPY business**
+
+- I have worked on **Deep Learning for Entity Resolution and Data Forensics**
 
 - 👀 I’m interested in the field of **NLP for entity matching, Deep Learning applied on Medical images**.
 
-- 🌱 I’m currently learning **Computer Vision and NLP** 
+- 🌱 I’m currently learning **Machine Learning frameworks on financial data** 
 
 - 📫 How to reach me **mohdirfan57@gmail.com**
 
